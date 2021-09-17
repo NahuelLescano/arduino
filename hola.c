@@ -1,6 +1,6 @@
 #include <stdio.h>
-
+#include "colores.h"
 int main(){
-	printf("Bieeeeeeeeeeeeeeeenvenidos al Himalaya, helao?\n");
+	printf(COLOR_AMARILLO"Bieeeeeeeeeeeeeeeenvenidos al Himalaya, helao?\n");
 	return 0;
 }
